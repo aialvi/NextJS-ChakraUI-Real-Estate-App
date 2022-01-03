@@ -60,7 +60,7 @@ const Property = ({
           alignItems="center"
           p="1"
           justifyContent="space-between"
-          w="400px"
+          w="250"
           color="blue.400"
         >
           {rooms}
