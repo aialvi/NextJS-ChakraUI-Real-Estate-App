@@ -8,9 +8,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "axios": "^0.24.0",
+    "framer-motion": "^5.5.5",
+    "millify": "^4.0.0",
     "next": "12.0.7",
+    "nprogress": "^0.2.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-horizontal-scrolling-menu": "^2.7.0",
+    "react-icons": "^4.3.1"
   },
   "devDependencies": {
     "eslint": "8.6.0",
