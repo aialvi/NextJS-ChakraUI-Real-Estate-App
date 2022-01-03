@@ -47,11 +47,6 @@ const Banner = ({
 export default function Home({ propertiesForSale, propertiesForRent }) {
   return (
     <div>
-      <Head>
-        <title>Next Real Estate</title>
-        <meta name="description" content="Get the 'Real' deals at ease" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
       <Box>
         <Banner
           imageUrl="https://bayut-production.s3.eu-central-1.amazonaws.com/image/145426814/33973352624c48628e41f2ec460faba4"

@@ -52,7 +52,7 @@ const Property = ({
           </Flex>
           <Flex justifyContent="flex-end" alignItems="center">
             <Box>
-              <Avatar size="xs" src={agency?.logo?.url} height="70"></Avatar>
+              <Avatar size="sm" src={agency?.logo?.url}></Avatar>
             </Box>
           </Flex>
         </Flex>
