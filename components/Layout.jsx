@@ -7,7 +7,7 @@ export default function Layout({ children }) {
   return (
     <>
       <Head>
-        <title>TriaHomes - One Stop Real Estate Solutioon</title>
+        <title>TriaHomes - One Stop Real Estate Solution</title>
       </Head>
       <Box maxWidth="1280px" m="auto">
         <header>
