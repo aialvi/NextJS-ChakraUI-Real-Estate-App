@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, set the NEXT_PUBLIC_RAPID_API_KEY to your own Rapid API's API key in .env file and then install the dependencies. After that run the development server:
+First, set the `NEXT_PUBLIC_RAPID_API_KEY` to your own Rapid API's API key in .env file and then install the dependencies. After that run the development server:
 
 ```bash
 npm run dev
